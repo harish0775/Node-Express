@@ -11,7 +11,15 @@ app.use(express.urlencoded());
 app.use(express.static('assets'));
 // middleware1
 // app.use(function(req, res, next){
+
  //  hello  this is features branch
+=======
+
+   //Just Check New Changes on gitHub
+=======
+// this a new commit in Master Branch
+
+
 
 //     req.myName = "Arpan"
 //     // console.log('middleware 1 called');
